@@ -1,0 +1,7 @@
+table,tr,td{ width: 550px;
+    border: 1px solid black 
+ }
+.yashil{ background-color: green; color: white;}
+.qizil{ background-color: red; color: white;}
+.id{ background-color: yellow ;color: black;}
+.j{ background-color: aqua; text-align: center;color: black;}
